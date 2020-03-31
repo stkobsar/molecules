@@ -52,11 +52,4 @@ for letter in smile:
 
 
 
-# 1) Todas training y test --> vocabulario: (lista de caracteres unicos) y assignamos un numero --> dictionario {"C":1, "S": 2}
-
-# 2) Usando dictionario de antes cambiar strings por numeros CCC... --> 111...
-
-#crear Output --> [tipoatom, posicion] --> [C, 1] --> [1, 1] Y
-
-#modelo = Arquitecture.train(X, Y)
 
